@@ -106,7 +106,7 @@ dependencies {
 apply from: "signing.gradle"
 
 checkstyle {
-    toolVersion = "7.+"
+    toolVersion = "10.+"
 }
 
 String getBuildNumber() {
