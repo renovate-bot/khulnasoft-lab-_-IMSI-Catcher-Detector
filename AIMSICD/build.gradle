@@ -100,7 +100,7 @@ dependencies {
     provided "org.projectlombok:lombok:1.16.16"
     //apt "org.projectlombok:lombok:1.16.16"
 
-    testCompile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.13.2'
 }
 
 apply from: "signing.gradle"
