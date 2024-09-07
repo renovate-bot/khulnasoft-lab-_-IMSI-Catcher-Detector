@@ -78,7 +78,7 @@ dependencies {
     compile 'au.com.bytecode:opencsv:2.4'
 
     // Easy to use Root Shell for Android Applications
-    compile 'com.github.Stericson:RootShell:d708ae1f0a'
+    compile 'com.github.Stericson:RootShell:1.6'
 
     // Dependency Injection for Android
     compile 'io.freefair.injection:android-injection:2.0.0-beta16'
