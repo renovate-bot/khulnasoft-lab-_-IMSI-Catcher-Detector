@@ -83,7 +83,7 @@ dependencies {
     // Dependency Injection for Android
     compile 'io.freefair.injection:android-injection:2.0.0-beta16'
     compile 'io.freefair.injection:okhttp:2.0.0-beta16'
-    compile 'io.freefair.android-util:function:3.0.0'
+    compile 'io.freefair.android-util:function:3.2.0'
     compile 'io.freefair:slf4j-android:1.7.21'
 
     compile 'io.freefair.android-colors:material:1.2.0'
